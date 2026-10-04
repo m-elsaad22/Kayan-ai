@@ -1,11 +1,22 @@
-<div align="center">
+# ركن كيان الشامل
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+إضافة ووردبريس واحدة تجمع مميزات إضافات التتبع والذكاء الاصطناعي السابقة، مع مولّد مقالات **حصري** يعتمد على Gemini أو Claude وليس على قوالب ثابتة.
 
-  <h1>Built with AI Studio</h2>
+## التثبيت
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+ارفع المجلد `rukn-kayan-suite` إلى:
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+```
+/wp-content/plugins/rukn-kayan-suite/
+```
 
-</div>
+ثم فعّلها من لوحة التحكم، وادخل مفتاح [Google Gemini](https://aistudio.google.com/app/apikey) أو Claude من **ركن كيان → الإعدادات**.
+
+## ماذا تضم؟
+
+- توليد مقالات حصرية (زاوية + شخصية + هيكل مختلف لكل مقال، مع قياس التشابه)
+- تتبع مكالمات وواتساب، DNI، احتيال، Heatmap، تقارير عامة
+- استيراد CSV، ترجمة، إعادة كتابة، SEO/Schema، ربط داخلي
+- تحليل منافسين، عروض تحويل، محلل موقع، Slug إنجليزي تلقائي
+
+الإضافات القديمة (`*.zip`) بقيت للمرجع فقط. لا تثبّتها مع الإضافة الجديدة على نفس الموقع.
